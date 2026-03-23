@@ -1,0 +1,17 @@
+{
+  "name": "@rebel-ai/dashboard-builder",
+  "version": "1.0.0",
+  "description": "Rebel AI Ventures - dashboard-builder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests yet'",
+    "lint": "echo 'No linter configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidOlmer/dashboard-builder.git"
+  },
+  "author": "Rebel AI Ventures",
+  "license": "MIT"
+}
